@@ -1,0 +1,14 @@
+{
+  "output": "C:\\Users\\jiang\\Documents\\Codex\\2026-06-14\\d-cdrivearchive-desktop-contest-2026\\outputs\\量子隧穿虚拟仿真实验平台_设计报告_匿名评审风险修复版.docx",
+  "sensitive_hits": [],
+  "paragraph_count": 58,
+  "table_count": 7,
+  "risk_fixes": [
+    "移除真实学校、指导教师、学生姓名与出生年月",
+    "补充匿名成员贡献与开发历程",
+    "补充参数范围、运行环境和性能指标",
+    "补充 E=V0 近垒顶极限处理，降低物理/数值表述风险",
+    "明确 |psi(x)|^2 为相对概率密度，避免归一化误读",
+    "补充局限性、改进方向、教学效果和推广价值"
+  ]
+}
